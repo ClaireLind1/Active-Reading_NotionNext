@@ -18,7 +18,8 @@
 <hr/>
 
 一个用NotionNext搭建的个人网站。
-<a href="https://clairelind.top" title="ClaireLind's BLog">
+
+https://clairelind.top
 
 ## License
 
