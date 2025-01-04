@@ -1,5 +1,5 @@
 const CONFIG = {
-  HEO_HOME_POST_TWO_COLS: true, // 首页博客两列显示，若为false则只显示一列
+  HEO_HOME_POST_TWO_COLS: false, // 首页博客两列显示，若为false则只显示一列
   HEO_LOADING_COVER: true, // 页面加载的遮罩动画
 
   HEO_HOME_BANNER_ENABLE: true,
@@ -18,11 +18,11 @@ const CONFIG = {
 
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '分享英语知识',
-  HEO_HERO_TITLE_2: '与NOTION模板',
+  HEO_HERO_TITLE_2: '与学习笔记',
   HEO_HERO_TITLE_3: 'ACTIVEREADINGS.TOP',
   HEO_HERO_TITLE_4: '新版上线',
-  HEO_HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
-  HEO_HERO_TITLE_LINK: 'https://www.activereadings.top/',
+  HEO_HERO_TITLE_5: 'NOTION模板',
+  HEO_HERO_TITLE_LINK: 'https://www.activereadings.top/template',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
