@@ -53,7 +53,7 @@ const CONFIG = {
   HEO_INFO_CARD_URL2: 'https://github.com/ClaireLind1',
   HEO_INFO_CARD_ICON2: 'fab fa-github',
   HEO_INFO_CARD_URL3: 'https://www.xiaohongshu.com/user/profile/5c4dd2b6000000001201c81b',
-  HEO_INFO_CARD_ICON3: 'fa-brands fa-instagram',
+  HEO_INFO_CARD_TEXT3: '小红书',
 
   // 用户技能图标
   HEO_GROUP_ICONS: [
